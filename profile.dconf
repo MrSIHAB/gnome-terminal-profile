@@ -1,0 +1,20 @@
+[/]
+background-color='rgb(4,2,23)'
+background-transparency-percent=9
+bold-color='rgb(232,0,165)'
+bold-color-same-as-fg=false
+bold-is-bright=true
+cursor-background-color='rgb(0,255,255)'
+cursor-blink-mode='system'
+cursor-colors-set=true
+default-size-columns=105
+font='AurulentSansM Nerd Font 12'
+foreground-color='rgb(13,157,189)'
+highlight-background-color='rgb(161,35,35)'
+highlight-colors-set=false
+highlight-foreground-color='rgb(177,22,22)'
+palette=['rgb(0,13,191)', 'rgb(207,0,0)', 'rgb(0,255,255)', 'rgb(209,49,239)', 'rgb(14,53,196)', 'rgb(163,71,186)', 'rgb(42,161,179)', 'rgb(237,247,249)', 'rgb(58,48,65)', 'rgb(229,30,30)', 'rgb(9,198,198)', 'rgb(0,255,64)', 'rgb(0,104,232)', 'rgb(192,97,203)', 'rgb(51,199,222)', 'rgb(255,255,255)']
+use-system-font=false
+use-theme-colors=false
+use-theme-transparency=true
+use-transparent-background=true
